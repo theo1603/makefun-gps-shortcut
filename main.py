@@ -23,13 +23,19 @@ wedding guests did look delighted when you rolled in uninvited."
 makes the driver the crasher, which is the actual joke — the GPS
 is proud of a shortcut that delivered its driver to a stranger's
 wedding as an uninvited guest.
+
+Revision 2: tightened the landing again — dropped "and the" and
+"did" ("...shortcut — the wedding guests looked delighted when
+you rolled in uninvited."). Same joke, one breath shorter; the
+GPS now states the disaster flatly instead of hedging with
+"did look".
 """
 
 from pathlib import Path
 
 TEXT = (
-    "The map swore that cul-de-sac was a shortcut \u2014 and the "
-    "wedding guests did look delighted when you rolled in uninvited."
+    "The map swore that cul-de-sac was a shortcut \u2014 the "
+    "wedding guests looked delighted when you rolled in uninvited."
 )
 
 
